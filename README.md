@@ -15,4 +15,4 @@ Lists
 ## Author
 
 - Frontend Mentor - [@Himanshish08](https://www.frontendmentor.io/profile/Himanshish08)
-- Linkedin - [@Himanshi Sharma]([https://www.linkedin.com/in/himanshi-sharma-a26ab8249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BziFl7aKPRaK09dQnlTTrHg%3D%3D])
+- Linkedin - [@Himanshi_Sharma]([https://www.linkedin.com/in/himanshi-sharma-a26ab8249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BziFl7aKPRaK09dQnlTTrHg%3D%3D])
